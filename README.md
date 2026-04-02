@@ -82,36 +82,28 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
+<!-- 
+  ⚠️ NOTĂ: Dacă stats card-ul sau top languages nu se încarcă,
+  instanța publică vercel e rate-limited. Fix permanent:
+  1. Forkează https://github.com/anuraghazra/github-readme-stats
+  2. Deploy pe Vercel (gratuit) cu un GitHub Personal Access Token (PAT_1)
+  3. Înlocuiește "github-readme-stats.vercel.app" cu domeniul tău
+-->
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mirunadragunoi&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mirunadragunoi&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=mirunadragunoi&theme=radical&background=0d1117&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirunadragunoi&theme=radical&bg_color=0d1117&hide_border=true&layout=compact&include_all_commits=true&count_private=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirunadragunoi&theme=radical&bg_color=0d1117&hide_border=true&layout=compact&include_all_commits=true&count_private=true&cache_seconds=86400" />
 </div>
 
 <br>
 
-## 🏆 Trophies
+## 📈 Contribution Graph
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=mirunadragunoi&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6)
-
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/mirunadragunoi/mirunadragunoi/output/github-snake-dark.svg)
-
-</div>
-
-> 💡 *Nu vezi snake-ul? Urmează [ghidul ăsta](https://github.com/Platane/snk) ca să-l activezi cu GitHub Actions pe repo-ul tău de profil.*
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mirunadragunoi&bg_color=0d1117&color=a855f7&line=ff6e96&point=38bdf8&area=true&area_color=a855f7&hide_border=true)
 
 ---
 

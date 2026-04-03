@@ -1,6 +1,6 @@
-# 💫 About Me
+# 🎲 About Me
 Hi, I'm Miruna ✨<br>
-⚡ Computer science student at University of Bucharest (FMI)
+💻 Computer science student at University of Bucharest (FMI)
 
 
 ## 💻 Tech Stack
